@@ -1,0 +1,62 @@
+body {
+    width: 350px;
+    margin: 0;
+    padding: 0 10px;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+}
+
+table{
+    border-collapse: collapse;
+
+}
+
+th{
+    color: white;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 10px;
+}
+
+td{
+    border-bottom: 1px solid lightgrey;
+    padding: 10px;
+}
+
+.cell-1{
+    text-align: left;
+    background-color: darkcyan;
+    width: 33%;
+}
+
+.cell-2{
+    text-align: center;
+    background-color: lightblue;
+    width: 33%;
+}
+
+.cell-3{
+    text-align: right;
+    background-color: darkcyan;
+    width: 33%;
+}
+
+.tr-1{
+    background-color: white;
+}
+
+.tr-2{
+    background-color: lightyellow;
+}
+
+.td-1{
+    text-align: left;   
+}
+
+.td-2{
+    text-align: center;   
+}
+
+.td-3{
+    text-align: right;   
+}
